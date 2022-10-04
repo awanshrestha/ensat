@@ -63,11 +63,11 @@ https://ensatserver.herokuapp.com/get24hourdata
  
 ### Hardware:
 
-<img src="https://raw.githubusercontent.com/awanshrestha/ensat/main/Documentation/Hardware/Hardware%20(1).jpg" width="400">
+<img src="https://raw.githubusercontent.com/awanshrestha/ensat/master/Documentation/Hardware/Hardware%20(1).jpg" width="400">
 
-<img src="https://raw.githubusercontent.com/awanshrestha/ensat/main/Documentation/Hardware/Hardware%20(2).jpg" width="400">
+<img src="https://raw.githubusercontent.com/awanshrestha/ensat/master/Documentation/Hardware/Hardware%20(2).jpg" width="400">
 
-<img src="https://raw.githubusercontent.com/awanshrestha/ensat/main/Documentation/Hardware/Hardware%20(3).jpg" width="400">
+<img src="https://raw.githubusercontent.com/awanshrestha/ensat/master/Documentation/Hardware/Hardware%20(3).jpg" width="400">
 
 <a id="environment-setup"></a>
 
